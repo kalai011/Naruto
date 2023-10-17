@@ -54,7 +54,7 @@ apscheduler
 pyshorteners
 pyromod
 colorama
-
+dnspython==2.3.0
 
 
   
